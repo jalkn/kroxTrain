@@ -28,9 +28,9 @@
         .carrusel {
             width: 100%;
             display: flex;
-            font-size: 18px;
+            font-size: 30px;
             margin: 0 auto;
-            transition: transform 0.5s ease-in-out; 
+            transition: transform 0.1s ease-in-out; 
         }
 
         .quote {
@@ -62,7 +62,7 @@
         }
 
         .logo {
-            max-width: 50px;
+            max-width: 60px;
             margin: 0 40px auto;
             position: relative;
             
@@ -75,7 +75,7 @@
         }
 
         .logo {
-            max-width: 40px; 
+            max-width: 50px; 
         }
 
         .carrusel {
@@ -88,11 +88,11 @@
     </style>
 </head>
 <body>
-    <div id="contenedor">
+    <div id="forward">
         <img src="logo.png" alt="logo" class="logo"> 
     </div>
 
-    <div>
+    <div id="backward">
         <div class="carrusel" id="carrusel">
 
             <div class="quote">Positive attitude</div>
@@ -1249,21 +1249,28 @@
     <script>
         const carrusel = document.getElementById('carrusel');
         let indiceActual = 0;
+        // Store the total number of items
+        const totalItems = carrusel.children.length;
 
-        // Función para mover el carrusel
+        // Function to move the carousel
         function moverCarrusel() {
-            // Calcula la posición del carrusel
             const translateX = -indiceActual * 100 + '%';
             carrusel.style.transform = `translateX(${translateX})`;
         }
 
-        // Agregar un evento de clic al contenedor para cambiar de frase
-        document.getElementById('contenedor').addEventListener('click', function() {
-            indiceActual = (indiceActual + 1) % carrusel.children.length;
+        // Add a click event to the container to move forward
+        document.getElementById('forward').addEventListener('click', function() {
+            indiceActual = (indiceActual + 1) % totalItems; 
             moverCarrusel();
         });
 
-        // Iniciar el carrusel en la primera frase
+        // Add a click event to the container to move backward
+        document.getElementById('backward').addEventListener('click', function() {
+            indiceActual = (indiceActual - 1 + totalItems) % totalItems; 
+            moverCarrusel();
+        });
+
+        // Initialize the carousel on the first item
         moverCarrusel();
     </script>
 </body>
