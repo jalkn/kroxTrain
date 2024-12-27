@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="shortcut icon" href="logo.png" type="image/x-icon">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
     <style>
         *{
             margin: 0;
@@ -48,7 +51,7 @@
         body {
             background-color: rgb(0, 0, 0);
             color: rgb(0, 0, 0);
-            font-family: Bebas Neue;
+            font-family: Bebas Neue, serif;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -59,10 +62,10 @@
         }
 
         .logo {
-            max-width: 70px;
+            max-width: 40px;
             margin: 0 40px auto;
             position: relative;
-            top: 20px;
+            
         }
 
         /* Estilos responsive */
@@ -72,7 +75,7 @@
         }
 
         .logo {
-            max-width: 60px; 
+            max-width: 30px; 
         }
 
         .carrusel {
@@ -85,6 +88,10 @@
     </style>
 </head>
 <body>
+    <div>
+        <img src="logo.png" alt="logo" class="logo"> 
+    </div>
+
     <div id="contenedor">
         <div class="carrusel" id="carrusel">
 
@@ -1237,11 +1244,6 @@
             <div class="quote">doing the right things at the right time</div>
             
         </div>
-    </div>
-
-    
-    <div>
-        <img src="logo.png" alt="logo" class="logo"> 
     </div>
 
     <script>
