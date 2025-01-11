@@ -29,43 +29,43 @@ except ClientError as e:
 posts = [
     {
         "image": "quotes/1.jpg", #morning workout
-        "caption": "MORNING KROXTRAIN - Add weight each round when ready 💪 #kroxtrain #morninggrind #trainharder",
+        "caption": "MORNING KROXTRAIN - Add weight each round when ready 💪 #kroxtrain #morninggrind #trainharder #explosive",
         "hours_delay": 1
     },
     {
         "image": "quotes/2.jpg", #Midday Quote. Progress demands patience
-        "caption": "It's not about how fast you get there, but that you keep moving forward.  Embrace the journey, celebrate the small wins, and trust the process. 🔥#ProgressOverPerfection #PatienceIsKey #TrustTheProcess #KeepGoing #GrowthMindset #Motivation #JourneyToSuccess #SmallWins #NeverGiveUp #PositiveVibes #kroxtrain #motivation #growth",
-        "hours_delay": 6
+        "caption": "Trust the process. \n🔥#ProgressOverPerfection #PatienceIsKey #TrustTheProcess #KeepGoing #GrowthMindset #Motivation #JourneyToSuccess #SmallWins #NeverGiveUp #PositiveVibes #kroxtrain #motivation #growth",
+        "hours_delay": 2
     },
     {
         "image": "quotes/3.jpg", #afternoon workout
-        "caption": "KROXTRAIN BEAST MODE 💪 Scale Options: Reduce weight, Step-ups instead of jumps - Stay consistent, stay strong 💯 #kroxtrain #afternoongrind #dedication #kroxtrain #power #explosive #mindset #growth #noexcuses",
-        "hours_delay": 11
+        "caption": "KROXTRAIN BEAST MODE 💪 Scale Options: Reduce weight, Step-ups instead of jumps - Stay consistent, stay strong 💯 \n#kroxtrain #afternoongrind #dedication #kroxtrain #power #explosive #mindset #growth #noexcuses",
+        "hours_delay": 3
     },
     {
         "image": "quotes/4.jpg", #Evening Quote. Discipline beats motivation
-        "caption": "Discipline carries you when motivation fails. Keep pushing, keep growing 🌱 #kroxtrain #motivation #growth #eveningworkout #determination",
-        "hours_delay": 16
+        "caption": "Discipline carries you when motivation fails. Keep growing 🌱 \n#kroxtrain #motivation #growth #eveningworkout #determination",
+        "hours_delay": 6
     },
     {
         "image": "quotes/5.jpg", #morning workout
-        "caption": "MORNING KROXTRAIN - Wake up, show up, crush it 🌅 #kroxtrain #morninggrind #trainharder",
-        "hours_delay": 25
+        "caption": "MORNING KROXTRAIN - Wake up, crush it 🌅 \n#kroxtrain #morninggrind #trainharder #explosive",
+        "hours_delay": 15
     },
     {
         "image": "quotes/6.jpg",  #earned not given
-        "caption": "The struggle was real, but the reward is even sweeter. 💯 #earnednotgiven #challenges #overcome #strength #resilience #nevergiveup #fightforit #successstory #perseverance #determination #effort #results #proud #journey #growthmindset #noexcuses #kroxtrain #motivation #growth",
-        "hours_delay": 30
+        "caption": "The struggle was real, but the reward is even sweeter. 💯\n #earnednotgiven #challenges #overcome #strength #resilience #nevergiveup #fightforit #successstory #perseverance #determination #effort #results #proud #journey #growthmindset #noexcuses #kroxtrain #motivation #growth",
+        "hours_delay": 25
     },
     {
         "image": "quotes/7.jpg",  #afternoon workout
         "caption": "KROXTRAIN BEAST MODE 💪 Scale Options:\n- 200m run\n- Single-unders\n - Lighter weight\n #kroxtrain #afternoongrind #dedication #kroxtrain #power #explosive #mindset #growth #noexcuses",
-        "hours_delay": 35
+        "hours_delay": 30
     },
     {
         "image": "quotes/8.jpg",   #It's never too late
-        "caption": "It's never too late to learn something new.  Whether it's a new skill, a new language, or a new perspective, embrace the journey of lifelong learning. 🌱 #kroxtrain #motivation #growth #eveningworkout #determination #NeverTooLate #LifelongLearning #Education #GrowthMindset #Curiosity #LearnSomethingNew #PersonalDevelopment #ExpandYourHorizons #NewSkills #KnowledgeIsPower",
-        "hours_delay": 40
+        "caption": "Whether it's a new skill. 🌱 \n#kroxtrain #motivation #growth #eveningworkout #determination #NeverTooLate #LifelongLearning #Education #GrowthMindset #Curiosity #LearnSomethingNew #PersonalDevelopment #ExpandYourHorizons #NewSkills #KnowledgeIsPower",
+        "hours_delay": 35
     }
 ]
 
