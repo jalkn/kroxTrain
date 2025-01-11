@@ -1,0 +1,1370 @@
+This looks like a collection of motivational and inspirational quotes. Here's a breakdown by topic:
+
+**Mindset & Attitude:**
+
+* Positive attitude
+* Winning mentality
+* Constant motivation
+* Perpetual inspiration
+* Eternal optimism
+* Unstoppable happiness
+* Unbreakable peace
+* Unshakable love
+* Unconditional kindness
+* Unwavering respect
+* Unfailing gratitude
+* Unyielding forgiveness
+* Uncompromising understanding
+* Unshakeable empathy
+* Unbreakable compassion
+* Unstoppable hope
+* Unbeatable faith
+* Unconquerable courage
+* Unstoppable determination
+* Unbreakable perseverance
+* Unyielding resilience
+* Unwavering strength
+* Unshakable power
+* Think positive.
+* Act positive.
+* Be positive.
+* Stay positive.
+* Live positive.
+* Positive thoughts.
+* Positive words.
+* Positive actions.
+* Confidence over fear.
+* Security over insecurity.
+* Clarity over confusion.
+* Enthusiasm over apathy.
+* No excuses.
+* No regrets.
+* No fears.
+* No doubts.
+* No insecurities.
+* No anxieties.
+* No worries.
+
+**Energy & Enthusiasm:**
+
+* Unlimited energy
+* Infinite enthusiasm
+* Endless joy
+* Energised and strong
+* Energised and powerful
+* Energised and motivated
+* Energised and inspired
+* Energised and enthusiastic
+* Energised and excited
+* Energised and happy
+* Energised and joyful
+* Energised and peaceful
+* Energised and loving
+* Energised and kind
+* Energised and respectful
+* Energised and grateful
+* Energised and forgiving
+* Energised and understanding
+* Energised and empathetic
+* Energised and compassionate
+* Energised and hopeful
+* Energised and faithful
+* Energised and courageous
+* Energised and determined
+* Energised and perseverant
+* Energised and resilient
+* Energy over tiredness
+* Vigor over weakness
+
+**Self-Improvement & Growth:**
+
+* you vs you
+* you vs yesterday
+* you vs today
+* you vs tomorrow
+* you vs future
+* you vs past
+* you vs present
+* you vs now
+* you vs then
+* you vs later
+* you vs always
+* you vs never
+* Learning and persistence
+* Learning and perseverance
+* Learning and resilience
+* Learning and strength
+* Learning and power
+* Learning and potential
+* Learning and possibilities
+* Learning and opportunities
+* Learning and growth
+* Learning and change
+* Learning and evolution
+* Learning and progress
+* Learning and success
+* Learning and victory
+* Learning and achievement
+* Learning and accomplishment
+* Learning and fulfillment
+* Learning and satisfaction
+* Learning and happiness
+* Learning and joy
+* Learning and peace
+* Learning and love
+* Learning and kindness
+* Learning and respect
+* Learning and gratitude
+* Learning and forgiveness
+* Learning and understanding
+* Learning and empathy
+* Learning and compassion
+* Learning and hope
+* Learning and faith
+* Learning and courage
+* Learning and determination
+* Building new habits
+* Building new routines
+* Building new disciplines
+* Building new skills
+* Building new talents
+* Building new abilities
+* Building new capacities
+* Building new potentials
+* Building new possibilities
+* Building new opportunities
+* Building new paths
+* Building new ways
+* Building new methods
+* Building new strategies
+* Building new tactics
+* Building new techniques
+* Building new approaches
+* Building new perspectives
+* It's never too late to change/improve/learn/grow/evolve etc.
+* Small improvement/change/step/action/habit
+
+**Potential & Possibilities:**
+
+* Unlimited potential
+* Infinite possibilities
+* Eternal opportunities
+* There are no limits. (and variations on this theme)
+* Everything is possible.
+* Opportunities... in circumstances/situations/obstacles etc.
+
+**Action & Time:**
+
+* Today matters more. (and variations on this theme)
+* Every step counts. (and variations on this theme)
+* Restart: mind, hands, reality.
+* There's no time to waste. (and variations on this theme)
+* Do it. / Do it now!
+* Go ahead. / Go ahead now!
+* Believe it. / Believe it now!
+* Express it. / Express it now!
+* New life, new projects, new achievements etc.
+* Easy with practice/experience/knowledge etc.
+* Gradual consistence progress/growth/improvement
+
+**Values & Priorities:**
+
+* Better ingenuity than resources.
+* Better creativity than knowledge. (and similar comparisons)
+* Peace over drama.
+* Love over hate. (and similar comparisons)
+* Consistency over intensity.
+* Progress over perfection.
+* Fundamentals over trends.
+* Make a difference.
+* Live the present.
+* It's the moment.
+
+
+**Gratitude:**
+
+* gratitude gives strength (and many variations of gratitude giving positive attributes)
+
+**Go & Stay (Motivation/Action):**
+
+* go hard/strong/fast etc.
+* stay committed/focused/determined etc.
+
+**Be & Seek (Self-Reflection/Action):**
+
+* be specific/clear/precise etc.
+* seek out what inspired you/motivated you/moved you etc.
+
+**Tired Of (Negative Mindset Shift):**
+
+* Tired of making excuses/blaming others/complaining etc.
+
+**Various (Hard to Categorize):**
+
+* Nothing grows in the comfort zone.
+* Growth is always difficult. (and variations)
+* Nothing is easy. (and variations)
+* What is manifested is attracted.
+* New life, new goals, new challenges, new possibilities etc.
+* Enough. / No more.
+* No drama, please. / Tranquility above all.
+* Success is a marathon/journey/process etc.
+* doing the right things at the right time
+* eat well, sleep well, rest well, etc.
+
+
+This categorization should help you organize and use these quotes more effectively.  There is definitely some overlap between categories as many of the quotes relate to multiple ideas.
+
+<div id="contenedor">
+        <div class="carrusel" id="carrusel">
+            <div class="quote">Positive attitude.</div>
+            <div class="quote">Winning mentality.</div>
+            <div class="quote">Constant motivation.</div>
+            <div class="quote">Perpetual inspiration.</div>
+            <div class="quote">Unlimited energy.</div>
+            <div class="quote">Infinite enthusiasm.</div>
+            <div class="quote">Eternal optimism.</div>
+            <div class="quote">Endless joy.</div>
+            <div class="quote">Unstoppable happiness.</div>
+            <div class="quote">Unbreakable peace.</div>
+            <div class="quote">Unshakable love.</div>
+            <div class="quote">Unconditional kindness.</div>
+            <div class="quote">Unwavering respect.</div>
+            <div class="quote">Unfailing gratitude.</div>
+            <div class="quote">Unyielding forgiveness.</div>
+            <div class="quote">Uncompromising understanding.</div>
+            <div class="quote">Unshakeable empathy.</div>
+            <div class="quote">Unbreakable compassion.</div>
+            <div class="quote">Unstoppable hope.</div>
+            <div class="quote">Unbeatable faith.</div>
+            <div class="quote">Unconquerable courage.</div>
+            <div class="quote">Unstoppable determination.</div>
+            <div class="quote">Unbreakable perseverance.</div>
+            <div class="quote">Unyielding resilience.</div>
+            <div class="quote">Unwavering strength.</div>
+            <div class="quote">Unshakable power.</div>
+            <div class="quote">Unlimited potential.</div>
+            <div class="quote">Infinite possibilities.</div>
+            <div class="quote">Eternal opportunities.</div>
+            <div class="quote">Energised and strong</div>
+            <div class="quote">Energised and powerful</div>
+            <div class="quote">Energised and motivated</div>
+            <div class="quote">Energised and inspired</div>
+            <div class="quote">Energised and enthusiastic</div>
+            <div class="quote">Energised and excited</div>
+            <div class="quote">Energised and happy</div>
+            <div class="quote">Energised and joyful</div>
+            <div class="quote">Energised and peaceful</div>
+            <div class="quote">Energised and loving</div>
+            <div class="quote">Energised and kind</div>
+            <div class="quote">Energised and respectful</div>
+            <div class="quote">Energised and grateful</div>
+            <div class="quote">Energised and forgiving</div>
+            <div class="quote">Energised and understanding</div>
+            <div class="quote">Energised and empathetic</div>
+            <div class="quote">Energised and compassionate</div>
+            <div class="quote">Energised and hopeful</div>
+            <div class="quote">Energised and faithful</div>
+            <div class="quote">Energised and courageous</div>
+            <div class="quote">Energised and determined</div>
+            <div class="quote">Energised and perseverant</div>
+            <div class="quote">Energised and resilient</div>
+            <div class="quote">you vs you</div>
+            <div class="quote">you vs yesterday</div>
+            <div class="quote">you vs today</div>
+            <div class="quote">you vs tomorrow</div>
+            <div class="quote">you vs future</div>
+            <div class="quote">you vs past</div>
+            <div class="quote">you vs present</div>
+            <div class="quote">you vs now</div>
+            <div class="quote">you vs then</div>
+            <div class="quote">you vs later</div>
+            <div class="quote">you vs always</div>
+            <div class="quote">you vs never</div>
+            <div class="quote">Learning and persistence</div>
+            <div class="quote">Learning and perseverance</div>
+            <div class="quote">Learning and resilience</div>
+            <div class="quote">Learning and strength</div>
+            <div class="quote">Learning and power</div>
+            <div class="quote">Learning and potential</div>
+            <div class="quote">Learning and possibilities</div>
+            <div class="quote">Learning and opportunities</div>
+            <div class="quote">Learning and growth</div>
+            <div class="quote">Learning and change</div>
+            <div class="quote">Learning and evolution</div>
+            <div class="quote">Learning and progress</div>
+            <div class="quote">Learning and success</div>
+            <div class="quote">Learning and victory</div>
+            <div class="quote">Learning and achievement</div>
+            <div class="quote">Learning and accomplishment</div>
+            <div class="quote">Learning and fulfillment</div>
+            <div class="quote">Learning and satisfaction</div>
+            <div class="quote">Learning and happiness</div>
+            <div class="quote">Learning and joy</div>
+            <div class="quote">Learning and peace</div>
+            <div class="quote">Learning and love</div>
+            <div class="quote">Learning and kindness</div>
+            <div class="quote">Learning and respect</div>
+            <div class="quote">Learning and gratitude</div>
+            <div class="quote">Learning and forgiveness</div>
+            <div class="quote">Learning and understanding</div>
+            <div class="quote">Learning and empathy</div>
+            <div class="quote">Learning and compassion</div>
+            <div class="quote">Learning and hope</div>
+            <div class="quote">Learning and faith</div>
+            <div class="quote">Learning and courage</div>
+            <div class="quote">Learning and determination</div>
+            <div class="quote">Learning and perseverance</div>
+            <div class="quote">Learning and resilience</div>
+            <div class="quote">Learning and strength</div>
+            <div class="quote">Learning and power</div>
+            <div class="quote">Learning and potential</div>
+            <div class="quote">Learning and possibilities</div>
+            <div class="quote">Learning and opportunities</div>
+            <div class="quote">Learning and growth</div>
+            <div class="quote">Learning and change</div>
+            <div class="quote">There are no limits.</div>
+            <div class="quote">There are no obstacles.</div>
+            <div class="quote">There are no barriers.</div>
+            <div class="quote">There are no boundaries.</div>
+            <div class="quote">There are no frontiers.</div>
+            <div class="quote">There are no walls.</div>
+            <div class="quote">There are no ceilings.</div>
+            <div class="quote">There are no floors.</div>
+            <div class="quote">There are no roofs.</div>
+            <div class="quote">There are no skies.</div>
+            <div class="quote">There are no heavens.</div>
+            <div class="quote">There are no stars.</div>
+            <div class="quote">There are no galaxies.</div>
+            <div class="quote">There are no universes.</div>
+            <div class="quote">There are no worlds.</div>
+            <div class="quote">There are no planets.</div>
+            <div class="quote">There are no moons.</div>
+            <div class="quote">There are no suns.</div>
+            <div class="quote">There are no lights.</div>
+            <div class="quote">There are no shadows.</div>
+            <div class="quote">There are no darkness.</div>
+            <div class="quote">There are no fears.</div>
+            <div class="quote">There are no doubts.</div>
+            <div class="quote">There are no insecurities.</div>
+            <div class="quote">There are no anxieties.</div>
+            <div class="quote">There are no worries.</div>
+            <div class="quote">There are no tensions.</div>
+            <div class="quote">There are no pressures.</div>
+            <div class="quote">There are no stresses.</div>
+            <div class="quote">There are no anguishes.</div>
+            <div class="quote">There are no sufferings.</div>
+            <div class="quote">There are no pains.</div>
+            <div class="quote">There are no sorrows.</div>
+            <div class="quote">There are no tears.</div>
+            <div class="quote">There are no cries.</div>
+            <div class="quote">There are no screams.</div>
+            <div class="quote">There are no complaints.</div>
+            <div class="quote">There are no reproaches.</div>
+            <div class="quote">There are no accusations.</div>
+            <div class="quote">There are no criticisms.</div>
+            <div class="quote">There are no judgments.</div>
+            <div class="quote">There are no condemnations.</div>
+            <div class="quote">There are no rejections.</div>
+            <div class="quote">There are no exclusions.</div>
+            <div class="quote">There are no discriminations.</div>
+            <div class="quote">There are no humiliations.</div>
+            <div class="quote">There are no limitations.</div>
+            <div class="quote">There are no restrictions.</div>
+            <div class="quote">There are no prohibitions.</div>
+            <div class="quote">There are no interdictions.</div>
+            <div class="quote">There are no obstacles.</div>
+            <div class="quote">There are no barriers.</div>
+            <div class="quote">Easy with practice</div>
+            <div class="quote">Easy with experience</div>
+            <div class="quote">Easy with knowledge</div>
+            <div class="quote">Easy with strugglings</div>
+            <div class="quote">Easy with sufferings</div>
+            <div class="quote">Easy with pains</div>
+            <div class="quote">Easy with sorrows</div>
+            <div class="quote">Easy with tears</div>
+            <div class="quote">Gradual consistence progress</div>
+            <div class="quote">Gradual consistence growth</div>
+            <div class="quote">Gradual consistence improvement</div>
+            <div class="quote">No excuses.</div>
+            <div class="quote">No regrets.</div>
+            <div class="quote">No fears.</div>
+            <div class="quote">No doubts.</div>
+            <div class="quote">No insecurities.</div>
+            <div class="quote">No anxieties.</div>
+            <div class="quote">No worries.</div>
+            <div class="quote">No tensions.</div>
+            <div class="quote">No pressures.</div>
+            <div class="quote">No stresses.</div>
+            <div class="quote">No anguishes.</div>
+            <div class="quote">No sufferings.</div>
+            <div class="quote">No pains.</div>
+            <div class="quote">No sorrows.</div>
+            <div class="quote">No tears.</div>
+            <div class="quote">No cries.</div>
+            <div class="quote">No screams.</div>
+            <div class="quote">No complaints.</div>
+            <div class="quote">No reproaches.</div>
+            <div class="quote">Everything is possible.</div>
+            <div class="quote">Today matters more.</div>
+            <div class="quote">Today is the day.</div>
+            <div class="quote">Today is crucial.</div>
+            <div class="quote">Today is key.</div>
+            <div class="quote">Today is vital.</div>
+            <div class="quote">Today is the moment.</div>
+            <div class="quote">New day</div>
+            <div class="quote">new possibility</div>
+            <div class="quote">new opportunity</div>
+            <div class="quote">new beginning</div>
+            <div class="quote">new life</div>
+            <div class="quote">new attitude</div>
+            <div class="quote">new mentality.</div>
+            <div class="quote">new thoughts</div>
+            <div class="quote">new emotions.</div>
+            <div class="quote">Every step counts.</div>
+            <div class="quote">Every effort counts.</div>
+            <div class="quote">Every progress counts.</div>
+            <div class="quote">Every growth counts.</div>
+            <div class="quote">Every improvement counts.</div>
+            <div class="quote">Every success counts.</div>
+            <div class="quote">Every victory counts.</div>
+            <div class="quote">Every achievement counts.</div>
+            <div class="quote">Every accomplishment counts.</div>
+            <div class="quote">Every fulfillment counts.</div>
+            <div class="quote">Every satisfaction counts.</div>
+            <div class="quote">Every happiness counts.</div>
+            <div class="quote">Every joy counts.</div>
+            <div class="quote">Every peace counts.</div>
+            <div class="quote">Every love counts.</div>
+            <div class="quote">Every kindness counts.</div>
+            <div class="quote">Every respect counts.</div>
+            <div class="quote">Every gratitude counts.</div>
+            <div class="quote">Every forgiveness counts.</div>
+            <div class="quote">Every understanding counts.</div>
+            <div class="quote">Every empathy counts.</div>
+            <div class="quote">Every compassion counts.</div>
+            <div class="quote">Every hope counts.</div>
+            <div class="quote">Every faith counts.</div>
+            <div class="quote">Every courage counts.</div>
+            <div class="quote">Every determination counts.</div>
+            <div class="quote">Every perseverance counts.</div>
+            <div class="quote">Every resilience counts.</div>
+            <div class="quote">Every strength counts.</div>
+            <div class="quote">Every power counts.</div>
+            <div class="quote">Every potential counts.</div>
+            <div class="quote">Every possibility counts.</div>
+            <div class="quote">Every opportunity counts.</div>
+            <div class="quote">Building new habits</div>
+            <div class="quote">Building new routines</div>
+            <div class="quote">Building new disciplines</div>
+            <div class="quote">Building new skills</div>
+            <div class="quote">Building new talents</div>
+            <div class="quote">Building new abilities</div>
+            <div class="quote">Building new capacities</div>
+            <div class="quote">Building new potentials</div>
+            <div class="quote">Building new possibilities</div>
+            <div class="quote">Building new opportunities</div>
+            <div class="quote">Building new paths</div>
+            <div class="quote">Building new ways</div>
+            <div class="quote">Building new methods</div>
+            <div class="quote">Building new strategies</div>
+            <div class="quote">Building new tactics</div>
+            <div class="quote">Building new techniques</div>
+            <div class="quote">Building new approaches</div>
+            <div class="quote">Building new perspectives</div>
+            <div class="quote">Restart: mind, hands, reality.</div>
+            <div class="quote">Nothing to lose, everything to gain.</div>
+            <div class="quote">Nothing to regret, everything to celebrate.</div>
+            <div class="quote">Nothing to fear, everything to conquer.</div>
+            <div class="quote">Better ingenuity than resources.</div>
+            <div class="quote">Better creativity than knowledge.</div>
+            <div class="quote">Better attitude than aptitude.</div>
+            <div class="quote">Better perseverance than talent.</div>
+            <div class="quote">Better resilience than strength.</div>
+            <div class="quote">Better courage than fear.</div>
+            <div class="quote">Better faith than doubt.</div>
+            <div class="quote">Better hope than despair.</div>
+            <div class="quote">Better love than hate.</div>
+            <div class="quote">Better peace than war.</div>
+            <div class="quote">Better unity than division.</div>
+            <div class="quote">Better harmony than discord.</div>
+            <div class="quote">Better understanding than ignorance.</div>
+            <div class="quote">Better empathy than indifference.</div>
+            <div class="quote">Better compassion than cruelty.</div>
+            <div class="quote">There is always a solution.</div>
+            <div class="quote">Light always overcomes darkness.</div>
+            <div class="quote">Nothing grows in the comfort zone.</div>
+            <div class="quote">New life</div>
+            <div class="quote">new goals</div>
+            <div class="quote">new challenges</div>
+            <div class="quote">new possibilities</div>
+            <div class="quote">new opportunities</div>
+            <div class="quote">new paths.</div>
+            <div class="quote">Growth is always difficult.</div>
+            <div class="quote">Change is always uncomfortable.</div>
+            <div class="quote">Evolution is always challenging.</div>
+            <div class="quote">Progress is always demanding.</div>
+            <div class="quote">Success is always hard.</div>
+            <div class="quote">Victory is always tough.</div>
+            <div class="quote">Nothing is easy.</div>
+            <div class="quote">Nothing is free.</div>
+            <div class="quote">Nothing is immediate.</div>
+            <div class="quote">Nothing is guaranteed.</div>
+            <div class="quote">Nothing is forever.</div>
+            <div class="quote">Nothing is perfect.</div>
+            <div class="quote">Nothing is absolute.</div>
+            <div class="quote">Nothing is definitive.</div>
+            <div class="quote">Opportunities...</div>
+            <div class="quote">in circumstances.</div>
+            <div class="quote">in situations.</div>
+            <div class="quote">in obstacles.</div>
+            <div class="quote">in challenges.</div>
+            <div class="quote">in difficulties.</div>
+            <div class="quote">in problems.</div>
+            <div class="quote">in crises.</div>
+            <div class="quote">in conflicts.</div>
+            <div class="quote">in failures.</div>
+            <div class="quote">in defeats.</div>
+            <div class="quote">in losses.</div>
+            <div class="quote">in mistakes.</div>
+            <div class="quote">in errors.</div>
+            <div class="quote">in sins.</div>
+            <div class="quote">in faults.</div>
+            <div class="quote">in weaknesses.</div>
+            <div class="quote">in limitations.</div>
+            <div class="quote">in fears.</div>
+            <div class="quote">in doubts.</div>
+            <div class="quote">in insecurities.</div>
+            <div class="quote">in anxieties.</div>
+            <div class="quote">in worries.</div>
+            <div class="quote">in tensions.</div>
+            <div class="quote">in pressures.</div>
+            <div class="quote">in stresses.</div>
+            <div class="quote">in anguishes.</div>
+            <div class="quote">in sufferings.</div>
+            <div class="quote">in pains.</div>
+            <div class="quote">in sorrows.</div>
+            <div class="quote">in tears.</div>
+            <div class="quote">in cries.</div>
+            <div class="quote">in screams.</div>
+            <div class="quote">in complaints.</div>
+            <div class="quote">in reproaches.</div>
+            <div class="quote">in accusations.</div>
+            <div class="quote">in criticisms.</div>
+            <div class="quote">in judgments.</div>
+            <div class="quote">in condemnations.</div>
+            <div class="quote">in rejections.</div>
+            <div class="quote">in exclusions.</div>
+            <div class="quote">in discriminations.</div>
+            <div class="quote">in humiliations.</div>
+            <div class="quote">Consistency over intensity.</div>
+            <div class="quote">Progress over perfection.</div>
+            <div class="quote">Fundamentals over trends.</div>
+            <div class="quote">Make a difference.</div>
+            <div class="quote">Live the present.</div>
+            <div class="quote">It's the moment.</div>
+            <div class="quote">There's no time to waste.</div>
+            <div class="quote">There's no time to wait.</div>
+            <div class="quote">There's no time to postpone.</div>
+            <div class="quote">There's no time to delay.</div>
+            <div class="quote">There's no time to hesitate.</div>
+            <div class="quote">There's no time to doubt.</div>
+            <div class="quote">There's no time to fear.</div>
+            <div class="quote">There's no time to worry.</div>
+            <div class="quote">There's no time to cry.</div>
+            <div class="quote">There's no time to complain.</div>
+            <div class="quote">There's no time to regret.</div>
+            <div class="quote">There's no time to suffer.</div>
+            <div class="quote">There's no time to be sad.</div>
+            <div class="quote">There's no time to be angry.</div>
+            <div class="quote">There's no time to be resentful.</div>
+            <div class="quote">There's no time to be bitter.</div>
+            <div class="quote">There's no time to be negative.</div>
+            <div class="quote">There's no time to be pessimistic.</div>
+            <div class="quote">There's no time to be cynical.</div>
+            <div class="quote">There's no time to be skeptical.</div>
+            <div class="quote">There's no time to be doubtful.</div>
+            <div class="quote">There's no time to be insecure.</div>
+            <div class="quote">There's no time to be anxious.</div>
+            <div class="quote">There's no time to be worried.</div>
+            <div class="quote">There's no time to be tense.</div>
+            <div class="quote">There's no time to be stressed.</div>
+            <div class="quote">There's no time to be anguished.</div>
+            <div class="quote">There's no time to be suffering.</div>
+            <div class="quote">There's no time to be in pain.</div>
+            <div class="quote">There's no time to be in sorrow.</div>
+            <div class="quote">There's no time to be in tears.</div>
+            <div class="quote">There's no time to be in cries.</div>
+            <div class="quote">There's no time to be in screams.</div>
+            <div class="quote">There's no time to be in complaints.</div>
+            <div class="quote">There's no time to be in reproaches.</div>
+            <div class="quote">There's no time to be in accusations.</div>
+            <div class="quote">There's no time to be in criticisms.</div>
+            <div class="quote">There's no time to be in judgments.</div>
+            <div class="quote">There's no time to be in condemnations.</div>
+            <div class="quote">There's no time to be in rejections.</div>
+            <div class="quote">There's no time to be in exclusions.</div>
+            <div class="quote">There's no time to be in discriminations.</div>
+            <div class="quote">There's no time to be in humiliations.</div>
+            <div class="quote">There's no time to be in limitations.</div>
+            <div class="quote">There's no time to be in fears.</div>
+            <div class="quote">There's no time to be in doubts.</div>
+            <div class="quote">There's no time to be in insecurities.</div>
+            <div class="quote">There's no time to be in anxieties.</div>
+            <div class="quote">There's no time to be in worries.</div>
+            <div class="quote">There's no time to be in tensions.</div>
+            <div class="quote">There's no time to be in pressures.</div>
+            <div class="quote">There's no time to be in stresses.</div>
+            <div class="quote">There's no time to be in anguishes.</div>
+            <div class="quote">There's no time to be in sufferings.</div>
+            <div class="quote">There's no time to be in pains.</div>
+            <div class="quote">There's no time to be in sorrows.</div>
+            <div class="quote">There's no time to be in tears.</div>
+            <div class="quote">There's no time to be in cries.</div>
+            <div class="quote">Do it.</div>
+            <div class="quote">Do it now!.</div>
+            <div class="quote">However you want.</div>
+            <div class="quote">Go ahead.</div>
+            <div class="quote">Go ahead now!.</div> 
+            <div class="quote">Whatever you dream.</div>
+            <div class="quote">Believe it.</div>
+            <div class="quote">Believe it now!.</div>
+            <div class="quote">Whatever you feel.</div>
+            <div class="quote">Express it.</div>
+            <div class="quote">Express it now!.</div>
+            <div class="quote">New life</div>
+            <div class="quote">new projects.</div>
+            <div class="quote">new achievements.</div>
+            <div class="quote">new successes.</div>
+            <div class="quote">new victories.</div>
+            <div class="quote">What is manifested is attracted.</div>
+            <div class="quote">Peace over drama.</div>
+            <div class="quote">Love over hate.</div>
+            <div class="quote">Joy over anger.</div>
+            <div class="quote">Kindness over cruelty.</div>
+            <div class="quote">Respect over contempt.</div>
+            <div class="quote">Gratitude over ingratitude.</div>
+            <div class="quote">Forgiveness over resentment.</div>
+            <div class="quote">Understanding over ignorance.</div>
+            <div class="quote">Empathy over indifference.</div>
+            <div class="quote">Compassion over cruelty.</div>
+            <div class="quote">Hope over despair.</div>
+            <div class="quote">Faith over doubt.</div>
+            <div class="quote">Tired of making excuses</div>
+            <div class="quote">tired of blaming others</div>
+            <div class="quote">tired of complaining</div>
+            <div class="quote">tired of criticizing</div>
+            <div class="quote">tired of judging</div>
+            <div class="quote">tired of condemning</div>
+            <div class="quote">tired of rejecting</div>
+            <div class="quote">tired of excluding</div>
+            <div class="quote">tired of discriminating</div>
+            <div class="quote">tired of humiliating</div>
+            <div class="quote">tired of limiting</div>
+            <div class="quote">tired of fearing</div>
+            <div class="quote">tired of doubting</div>
+            <div class="quote">tired of being insecure</div>
+            <div class="quote">tired of being anxious</div>
+            <div class="quote">tired of worrying</div>
+            <div class="quote">tired of being tense</div>
+            <div class="quote">tired of being stressed</div>
+            <div class="quote">tired of being anguished</div>
+            <div class="quote">tired of suffering</div>
+            <div class="quote">tired of being in pain</div>
+            <div class="quote">tired of being in sorrow</div>
+            <div class="quote">tired of being in tears</div>
+            <div class="quote">tired of being in cries</div>
+            <div class="quote">tired of being in screams</div>
+            <div class="quote">tired of being in complaints</div>
+            <div class="quote">tired of being in reproaches</div>
+            <div class="quote">tired of being in accusations</div>
+            <div class="quote">tired of being in criticisms</div>
+            <div class="quote">tired of being in judgments</div>
+            <div class="quote">tired of being in condemnations</div>
+            <div class="quote">tired of being in rejections</div>
+            <div class="quote">tired of being in exclusions</div>
+            <div class="quote">tired of being in discriminations</div>
+            <div class="quote">tired of being in humiliations</div>
+            <div class="quote">tired of being in limitations</div>
+            <div class="quote">tired of being in fears</div>
+            <div class="quote">tired of being in doubts</div>
+            <div class="quote">tired of being in insecurities</div>
+            <div class="quote">tired of being in anxieties</div>
+            <div class="quote">tired of being in worries</div>
+            <div class="quote">tired of being in tensions</div>
+            <div class="quote">tired of being in pressures</div>
+            <div class="quote">tired of being in stresses</div>
+            <div class="quote">tired of being in anguishes</div>
+            <div class="quote">tired of being in sufferings</div>
+            <div class="quote">tired of being in pains</div>
+            <div class="quote">tired of being in sorrows</div>
+            <div class="quote">tired of being in tears</div>
+            <div class="quote">tired of being in cries</div>
+            <div class="quote">go hard</div>
+            <div class="quote">go strong</div>
+            <div class="quote">go fast</div>
+            <div class="quote">go far</div>
+            <div class="quote">go high</div>
+            <div class="quote">go deep</div>
+            <div class="quote">go wide</div>
+            <div class="quote">go big</div>
+            <div class="quote">go great</div>
+            <div class="quote">go excellent</div>
+            <div class="quote">go awesome</div>
+            <div class="quote">go amazing</div>
+            <div class="quote">go fantastic</div>
+            <div class="quote">go fabulous</div>
+            <div class="quote">go wonderful</div>
+            <div class="quote">go extraordinary</div>
+            <div class="quote">go incredible</div>
+            <div class="quote">go unbelievable</div>
+            <div class="quote">go unbeatable</div>
+            <div class="quote">go unstoppable</div>
+            <div class="quote">go invincible</div>
+            <div class="quote">go immortal</div>
+            <div class="quote">go eternal</div>
+            <div class="quote">go infinite</div>
+            <div class="quote">go limitless</div>
+            <div class="quote">go boundless</div>
+            <div class="quote">go endless</div>
+            <div class="quote">go perpetual</div>
+            <div class="quote">go constant</div>
+            <div class="quote">go consistent</div>
+            <div class="quote">go persistent</div>
+            <div class="quote">go insistent</div>
+            <div class="quote">go tenacious</div>
+            <div class="quote">go determined</div>
+            <div class="quote">go resolute</div>
+            <div class="quote">go firm</div>
+            <div class="quote">go strong</div>
+            <div class="quote">go solid</div>
+            <div class="quote">go stable</div>
+            <div class="quote">go secure</div>
+            <div class="quote">go safe</div>
+            <div class="quote">go protected</div>
+            <div class="quote">go defended</div>
+            <div class="quote">go shielded</div>
+            <div class="quote">go guarded</div>
+            <div class="quote">go covered</div>
+            <div class="quote">go sheltered</div>
+            <div class="quote">stay commited</div>
+            <div class="quote">stay focused</div>
+            <div class="quote">stay determined</div>
+            <div class="quote">stay disciplined</div>
+            <div class="quote">stay consistent</div>
+            <div class="quote">stay persistent</div>
+            <div class="quote">stay insistent</div>
+            <div class="quote">stay tenacious</div>
+            <div class="quote">stay resilient</div>
+            <div class="quote">stay strong</div>
+            <div class="quote">stay firm</div>
+            <div class="quote">stay solid</div>
+            <div class="quote">stay stable</div>
+            <div class="quote">stay secure</div>
+            <div class="quote">stay safe</div>
+            <div class="quote">stay protected</div>
+            <div class="quote">stay defended</div>
+            <div class="quote">stay shielded</div>
+            <div class="quote">stay guarded</div>
+            <div class="quote">stay covered</div>
+            <div class="quote">stay sheltered</div>
+            <div class="quote">stay commited</div>
+            <div class="quote">stay focused</div>
+            <div class="quote">stay determined</div>
+            <div class="quote">stay disciplined</div>
+            <div class="quote">stay consistent</div>
+            <div class="quote">stay persistent</div>
+            <div class="quote">stay insistent</div>
+            <div class="quote">stay tenacious</div>
+            <div class="quote">stay resilient</div>
+            <div class="quote">stay strong</div>
+            <div class="quote">stay firm</div>
+            <div class="quote">stay solid</div>
+            <div class="quote">stay stable</div>
+            <div class="quote">be specific</div>
+            <div class="quote">be clear</div>
+            <div class="quote">be precise</div>
+            <div class="quote">be accurate</div>
+            <div class="quote">be detailed</div>
+            <div class="quote">be thorough</div>
+            <div class="quote">be exhaustive</div>
+            <div class="quote">be comprehensive</div>
+            <div class="quote">be inclusive</div>
+            <div class="quote">be exclusive</div>
+            <div class="quote">be selective</div>
+            <div class="quote">be restrictive</div>
+            <div class="quote">be limiting</div>
+            <div class="quote">be defining</div>
+            <div class="quote">be determining</div>
+            <div class="quote">be deciding</div>
+            <div class="quote">be choosing</div>
+            <div class="quote">be selecting</div>
+            <div class="quote">be picking</div>
+            <div class="quote">be electing</div>
+            <div class="quote">be preferring</div>
+            <div class="quote">be favoring</div>
+            <div class="quote">be liking</div>
+            <div class="quote">be loving</div>
+            <div class="quote">be admiring</div>
+            <div class="quote">be respecting</div>
+            <div class="quote">be valuing</div>
+            <div class="quote">be appreciating</div>
+            <div class="quote">be esteeming</div>
+            <div class="quote">be honoring</div>
+            <div class="quote">be praising</div>
+            <div class="quote">be glorifying</div>
+            <div class="quote">be exalting</div>
+            <div class="quote">be magnifying</div>
+            <div class="quote">be extolling</div>
+            <div class="quote">be lauding</div>
+            <div class="quote">be celebrating</div>
+            <div class="quote">be commemorating</div>
+            <div class="quote">be memorializing</div>
+            <div class="quote">be remembering</div>
+            <div class="quote">be recalling</div>
+            <div class="quote">be reminiscing</div>
+            <div class="quote">be evoking</div>
+            <div class="quote">be invoking</div>
+            <div class="quote">be summoning</div>
+            <div class="quote">be calling</div>
+            <div class="quote">be attracting</div>
+            <div class="quote">be drawing</div>
+            <div class="quote">be pulling</div>
+            <div class="quote">be fetching</div>
+            <div class="quote">be bringing</div>
+            <div class="quote">be taking</div>
+            <div class="quote">be carrying</div>
+            <div class="quote">be moving</div>
+            <div class="quote">be transporting</div>
+            <div class="quote">be transferring</div>
+            <div class="quote">be transmitting</div>
+            <div class="quote">be communicating</div>
+            <div class="quote">be connecting</div>
+            <div class="quote">be linking</div>
+            <div class="quote">be bonding</div>
+            <div class="quote">be uniting</div>
+            <div class="quote">be integrating</div>
+            <div class="quote">be merging</div>
+            <div class="quote">be blending</div>
+            <div class="quote">be mixing</div>
+            <div class="quote">be combining</div>
+            <div class="quote">be fusing</div>
+            <div class="quote">be melting</div>
+            <div class="quote">be dissolving</div>
+            <div class="quote">be resolving</div>
+            <div class="quote">be solving</div>
+            <div class="quote">be resolving</div>
+            <div class="quote">be answering</div>
+            <div class="quote">be responding</div>
+            <div class="quote">be reacting</div>
+            <div class="quote">be acting</div>
+            <div class="quote">be performing</div>
+            <div class="quote">be executing</div>
+            <div class="quote">be implementing</div>
+            <div class="quote">be applying</div>
+            <div class="quote">be practicing</div>
+            <div class="quote">be exercising</div>
+            <div class="quote">be training</div>
+            <div class="quote">be learning</div>
+            <div class="quote">be studying</div>
+            <div class="quote">be researching</div>
+            <div class="quote">be investigating</div>
+            <div class="quote">be exploring</div>
+            <div class="quote">be discovering</div>
+            <div class="quote">be uncovering</div>
+            <div class="quote">be revealing</div>
+            <div class="quote">be disclosing</div>
+            <div class="quote">be exposing</div>
+            <div class="quote">be manifesting</div>
+            <div class="quote">be demonstrating</div>
+            <div class="quote">be proving</div>
+            <div class="quote">be verifying</div>
+            <div class="quote">be confirming</div>
+            <div class="quote">be certifying</div>
+            <div class="quote">be validating</div>
+            <div class="quote">create a plan</div>
+            <div class="quote">create a project</div>
+            <div class="quote">create a tactic</div>
+            <div class="quote">create a strategy</div>
+            <div class="quote">create a technique</div>
+            <div class="quote">create a system</div>
+            <div class="quote">create a method</div>
+            <div class="quote">seek out what inspired you</div>
+            <div class="quote">seek out what motivated you</div>
+            <div class="quote">seek out what moved you</div>
+            <div class="quote">seek out what touched you</div>
+            <div class="quote">seek out what excited you</div>
+            <div class="quote">seek out what thrilled you</div>
+            <div class="quote">seek out what fascinated you</div>
+            <div class="quote">seek out what captivated you</div>
+            <div class="quote">seek out what charmed you</div>
+            <div class="quote">seek out what enchanted you</div>
+            <div class="quote">seek out what allured you</div>
+            <div class="quote">seek out what seduced you</div>
+            <div class="quote">seek out what tempted you</div>
+            <div class="quote">seek out what enticed you</div>
+            <div class="quote">seek out what lured you</div>
+            <div class="quote">seek out what attracted you</div>
+            <div class="quote">seek out what drew you</div>
+            <div class="quote">seek out what pulled you</div>
+            <div class="quote">seek out what fetched you</div>
+            <div class="quote">seek out what brought you</div>
+            <div class="quote">seek out what took you</div>
+            <div class="quote">seek out what carried you</div>
+            <div class="quote">seek out what moved you</div>
+            <div class="quote">seek out what transferred you</div>
+            <div class="quote">seek out what transmitted you</div>
+            <div class="quote">seek out what communicated you</div>
+            <div class="quote">seek out what connected you</div>
+            <div class="quote">seek out what linked you</div>
+            <div class="quote">seek out what bonded you</div>
+            <div class="quote">seek out what united you</div>
+            <div class="quote">seek out what integrated you</div>
+            <div class="quote">seek out what merged you</div>
+            <div class="quote">seek out what blended you</div>
+            <div class="quote">seek out what mixed you</div>
+            <div class="quote">seek what motivated you</div>
+            <div class="quote">seek what moved you</div>
+            <div class="quote">seek what touched you</div>
+            <div class="quote">seek what excited you</div>
+            <div class="quote">seek what thrilled you</div>
+            <div class="quote">seek what fascinated you</div>
+            <div class="quote">seek what captivated you</div>
+            <div class="quote">seek what charmed you</div>
+            <div class="quote">seek what enchanted you</div>
+            <div class="quote">seek what allured you</div>
+            <div class="quote">seek what seduced you</div>
+            <div class="quote">seek what tempted you</div>
+            <div class="quote">seek what enticed you</div>
+            <div class="quote">seek what lured you</div>
+            <div class="quote">seek what attracted you</div>
+            <div class="quote">seek what drew you</div>
+            <div class="quote">seek what pulled you</div>
+            <div class="quote">seek what fetched you</div>
+            <div class="quote">seek what brought you</div>
+            <div class="quote">seek what took you</div>
+            <div class="quote">seek what carried you</div>
+            <div class="quote">seek what moved you</div>
+            <div class="quote">seek what transported you</div>
+            <div class="quote">seek what transferred you</div>
+            <div class="quote">seek what transmitted you</div>
+            <div class="quote">seek what communicated you</div>
+            <div class="quote">seek what connected you</div>
+            <div class="quote">seek what linked you</div>
+            <div class="quote">seek what bonded you</div>
+            <div class="quote">seek what united you</div>
+            <div class="quote">seek what integrated you</div>
+            <div class="quote">seek what merged you</div>
+            <div class="quote">seek what blended you</div>
+            <div class="quote">step away from negativity</div>
+            <div class="quote">step away from toxicity</div>
+            <div class="quote">step away from bad habits</div>
+            <div class="quote">step away from negative influence</div>
+            <div class="quote">step away from toxic people</div>
+            <div class="quote">step away from bad habits</div>
+            <div class="quote">step away from negative influence</div>
+            <div class="quote">step away from toxic people</div>
+            <div class="quote">far from toxic people</div>
+            <div class="quote">far from bad habits</div>
+            <div class="quote">distance yourself from negative influence</div>
+            <div class="quote">distance yourself from toxic people</div>
+            <div class="quote">distance yourself from bad habits</div>
+            <div class="quote">New day</div>
+            <div class="quote">new skills</div>
+            <div class="quote">new powers</div>
+            <div class="quote">new strengths</div>
+            <div class="quote">new resources.</div>
+            <div class="quote">Confidence over fear.</div>
+            <div class="quote">Security over insecurity.</div>
+            <div class="quote">Clarity over confusion.</div>
+            <div class="quote">Enthusiasm over apathy.</div>
+            <div class="quote">Energy over tiredness.</div>
+            <div class="quote">Vigor over weakness.</div>
+            <div class="quote">Strength over fragility.</div>
+            <div class="quote">Power over impotence.</div>
+            <div class="quote">Courage over cowardice.</div>
+            <div class="quote">Determination over resignation.</div>
+            <div class="quote">Perseverance over abandonment.</div>
+            <div class="quote">Patience over impatience.</div>
+            <div class="quote">Discipline over disorder.</div>
+            <div class="quote">Order over chaos.</div>
+            <div class="quote">Organization over disorganization.</div>
+            <div class="quote">Planning over improvisation.</div>
+            <div class="quote">Strategy over tactics.</div>
+            <div class="quote">Tactics over strategy.</div>
+            <div class="quote">Wisdom over intelligence.</div>
+            <div class="quote">Intelligence over knowledge.</div>
+            <div class="quote">Knowledge over information.</div>
+            <div class="quote">Information over data.</div>
+            <div class="quote">Data over statistics.</div>
+            <div class="quote">Statistics over probabilities.</div>
+            <div class="quote">Probabilities over possibilities.</div>
+            <div class="quote">Possibilities over opportunities.</div>
+            <div class="quote">Opportunities over chances.</div>
+            <div class="quote">Chances over risks.</div>
+            <div class="quote">Risks over dangers.</div>
+            <div class="quote">Dangers over threats.</div>
+            <div class="quote">Vitality over sickness.</div>
+            <div class="quote">Health over discomfort.</div>
+            <div class="quote">Happiness over sadness.</div>
+            <div class="quote">New life</div>
+            <div class="quote">new horizons</div>
+            <div class="quote">new dreams</div>
+            <div class="quote">new illusions</div>
+            <div class="quote">new hopes</div>
+            <div class="quote">new yearnings.</div>
+            <div class="quote">Think positive.</div>
+            <div class="quote">Act positive.</div>
+            <div class="quote">Be positive.</div>
+            <div class="quote">Stay positive.</div>
+            <div class="quote">Live positive.</div>
+            <div class="quote">Positive thoughts.</div>
+            <div class="quote">Positive words.</div>
+            <div class="quote">Positive actions.</div>
+            <div class="quote">Positive behaviors.</div>
+            <div class="quote">Positive habits.</div>
+            <div class="quote">Positive attitudes.</div>
+            <div class="quote">Positive feelings.</div>
+            <div class="quote">Positive emotions.</div>
+            <div class="quote">Positive vibrations.</div>
+            <div class="quote">Positive energies.</div>
+            <div class="quote">Positive frequencies.</div>
+            <div class="quote">Positive waves.</div>
+            <div class="quote">Positive currents.</div>
+            <div class="quote">Positive streams.</div>
+            <div class="quote">Positive rivers.</div>
+            <div class="quote">Positive oceans.</div>
+            <div class="quote">Positive seas.</div>
+            <div class="quote">Positive skies.</div>
+            <div class="quote">Positive heavens.</div>
+            <div class="quote">Positive universes.</div>
+            <div class="quote">Positive worlds.</div>
+            <div class="quote">Positive galaxies.</div>
+            <div class="quote">Positive cosmoses.</div>
+            <div class="quote">Positive existences.</div>
+            <div class="quote">Positive realities.</div>
+            <div class="quote">Positive truths.</div>
+            <div class="quote">Positive facts.</div>
+            <div class="quote">Positive certainties.</div>
+            <div class="quote">Positive assurances.</div>
+            <div class="quote">Positive guarantees.</div>
+            <div class="quote">Positive promises.</div>
+            <div class="quote">Positive commitments.</div>
+            <div class="quote">Positive responsibilities.</div>
+            <div class="quote">Positive obligations.</div>
+            <div class="quote">Positive duties.</div>
+            <div class="quote">Positive tasks.</div>
+            <div class="quote">Positive missions.</div>
+            <div class="quote">Positive purposes.</div>
+            <div class="quote">Positive goals.</div>
+            <div class="quote">Positive goals.</div>
+            <div class="quote">Positive objectives.</div>
+            <div class="quote">Positive aims.</div>
+            <div class="quote">Positive targets.</div>
+            <div class="quote">Positive destinations.</div>
+            <div class="quote">Positive directions.</div>
+            <div class="quote">Positive paths.</div>
+            <div class="quote">Positive ways.</div>
+            <div class="quote">Positive means.</div>
+            <div class="quote">Positive methods.</div>
+            <div class="quote">Positive systems.</div>
+            <div class="quote">Positive structures.</div>
+            <div class="quote">Positive organizations.</div>
+            <div class="quote">Positive institutions.</div>
+            <div class="quote">Positive establishments.</div>
+            <div class="quote">Positive foundations.</div>
+            <div class="quote">Positive bases.</div>
+            <div class="quote">Positive grounds.</div>
+            <div class="quote">Positive roots.</div>
+            <div class="quote">Positive sources.</div>
+            <div class="quote">Positive springs.</div>
+            <div class="quote">Positive fountains.</div>
+            <div class="quote">Positive wells.</div>
+            <div class="quote">Positive reservoirs.</div>
+            <div class="quote">eat well</div>
+            <div class="quote">sleep well</div>
+            <div class="quote">rest well</div>
+            <div class="quote">relax well</div>
+            <div class="quote">meditate well</div>
+            <div class="quote">breathe well</div>
+            <div class="quote">exercise well</div>
+            <div class="quote">work well</div>
+            <div class="quote">study well</div>
+            <div class="quote">learn well</div>
+            <div class="quote">practice well</div>
+            <div class="quote">train well</div>
+            <div class="quote">educate well</div>
+            <div class="quote">Enough.</div>
+            <div class="quote">No more.</div>
+            <div class="quote">No drama, please.</div>
+            <div class="quote">Tranquility above all.</div>
+            <div class="quote">It's never too late</div>
+            <div class="quote">to change</div>
+            <div class="quote">to improve</div>
+            <div class="quote">to learn</div>
+            <div class="quote">to grow</div>
+            <div class="quote">to evolve</div>
+            <div class="quote">to transform</div>
+            <div class="quote">to adapt</div>
+            <div class="quote">to adjust</div>
+            <div class="quote">to correct</div>
+            <div class="quote">to rectify</div>
+            <div class="quote">to modify</div>
+            <div class="quote">to change</div>
+            <div class="quote">to improve</div>
+            <div class="quote">to learn</div>
+            <div class="quote">to grow</div>
+            <div class="quote">to evolve</div>
+            <div class="quote">to progress</div>
+            <div class="quote">to heal</div>
+            <div class="quote">to forgive</div>
+            <div class="quote">to love</div>
+            <div class="quote">to let go</div>
+            <div class="quote">to start over.</div>
+            <div class="quote">New day</div>
+            <div class="quote">new sensations</div>
+            <div class="quote">new experiences</div>
+            <div class="quote">new lessons</div>
+            <div class="quote">new knowledge</div>
+            <div class="quote">new skills</div>
+            <div class="quote">new talents</div>
+            <div class="quote">new gifts.</div>
+            <div class="quote">Unlimited forgiveness.</div>
+            <div class="quote">Unlimited understanding.</div>
+            <div class="quote">Unlimited empathy.</div>
+            <div class="quote">Unlimited compassion.</div>
+            <div class="quote">Unlimited hope.</div>
+            <div class="quote">Unlimited faith.</div>
+            <div class="quote">Unlimited confidence.</div>
+            <div class="quote">Unlimited security.</div>
+            <div class="quote">Unlimited clarity.</div>
+            <div class="quote">Unlimited enthusiasm.</div>
+            <div class="quote">Unlimited energy.</div>
+            <div class="quote">Unlimited vigor.</div>
+            <div class="quote">Unlimited strength.</div>
+            <div class="quote">Unlimited power.</div>
+            <div class="quote">Unlimited courage.</div>
+            <div class="quote">Unlimited determination.</div>
+            <div class="quote">Unlimited perseverance.</div>
+            <div class="quote">Unlimited patience.</div>
+            <div class="quote">Unlimited discipline.</div>
+            <div class="quote">Unlimited order.</div>
+            <div class="quote">Unlimited organization.</div>
+            <div class="quote">Unlimited planning.</div>
+            <div class="quote">Unlimited strategy.</div>
+            <div class="quote">Unlimited tactics.</div>
+            <div class="quote">Unlimited wisdom.</div>
+            <div class="quote">Unlimited intelligence.</div>
+            <div class="quote">Unlimited knowledge.</div>
+            <div class="quote">Unlimited information.</div>
+            <div class="quote">Unlimited data.</div>
+            <div class="quote">Unlimited statistics.</div>
+            <div class="quote">Unlimited probabilities.</div>
+            <div class="quote">Unlimited possibilities.</div>
+            <div class="quote">Unlimited opportunities.</div>
+            <div class="quote">Unlimited chances.</div>
+            <div class="quote">Unlimited risks.</div>
+            <div class="quote">Unlimited dangers.</div>
+            <div class="quote">Unlimited threats.</div>
+            <div class="quote">Unlimited vitality.</div>
+            <div class="quote">Unlimited health.</div>
+            <div class="quote">Unlimited happiness.</div>
+            <div class="quote">Unlimited peace.</div>
+            <div class="quote">Unlimited love.</div>
+            <div class="quote">Unlimited joy.</div>
+            <div class="quote">Unlimited kindness.</div>
+            <div class="quote">Unlimited respect.</div>
+            <div class="quote">Unlimited gratitude.</div>
+            <div class="quote">Unlimited forgiveness.</div>
+            <div class="quote">Unlimited understanding.</div>
+            <div class="quote">Unlimited empathy.</div>
+            <div class="quote">Unlimited compassion.</div>
+            <div class="quote">Unlimited hope.</div>
+            <div class="quote">Unlimited faith.</div>
+            <div class="quote">Unlimited confidence.</div>
+            <div class="quote">Unlimited security.</div>
+            <div class="quote">Unlimited clarity.</div>
+            <div class="quote">Unlimited enthusiasm.</div>
+            <div class="quote">Unlimited energy.</div>
+            <div class="quote">Unlimited vigor.</div>
+            <div class="quote">Unlimited strength.</div>
+            <div class="quote">Unlimited power.</div>
+            <div class="quote">Unlimited courage.</div>
+            <div class="quote">Unlimited determination.</div>
+            <div class="quote">Unlimited perseverance.</div>
+            <div class="quote">Unlimited patience.</div>
+            <div class="quote">Unlimited discipline.</div>
+            <div class="quote">Unlimited order.</div>
+            <div class="quote">Unlimited organization.</div>
+            <div class="quote">Unlimited planning.</div>
+            <div class="quote">Unlimited strategy.</div>
+            <div class="quote">Unlimited tactics.</div>
+            <div class="quote">Unlimited wisdom.</div>
+            <div class="quote">Unlimited intelligence.</div>
+            <div class="quote">Unlimited knowledge.</div>
+            <div class="quote">Unlimited information.</div>
+            <div class="quote">Unlimited data.</div>
+            <div class="quote">Unlimited statistics.</div>
+            <div class="quote">Unlimited probabilities.</div>
+            <div class="quote">Unlimited possibilities.</div>
+            <div class="quote">Unlimited opportunities.</div>
+            <div class="quote">Unlimited chances.</div>
+            <div class="quote">Unlimited risks.</div>
+            <div class="quote">Unlimited dangers.</div>
+            <div class="quote">Unlimited threats.</div>
+            <div class="quote">Unlimited vitality.</div>
+            <div class="quote">Unlimited health.</div>
+            <div class="quote">Unlimited happiness.</div>
+            <div class="quote">Unlimited peace.</div>
+            <div class="quote">Unlimited love.</div>
+            <div class="quote">Unlimited joy.</div>
+            <div class="quote">Unlimited kindness.</div>
+            <div class="quote">Unlimited respect.</div>
+            <div class="quote">Unlimited gratitude.</div>
+            <div class="quote">Unlimited forgiveness.</div>
+            <div class="quote">Unlimited understanding.</div>
+            <div class="quote">Unlimited empathy.</div>
+            <div class="quote">Unlimited compassion.</div>
+            <div class="quote">Unlimited hope.</div>
+            <div class="quote">Unlimited faith.</div>
+            <div class="quote">Unlimited confidence.</div>
+            <div class="quote">Unlimited security.</div>
+            <div class="quote">Unlimited clarity.</div>
+            <div class="quote">Unlimited enthusiasm.</div>
+            <div class="quote">Unlimited energy.</div>
+            <div class="quote">Unlimited vigor.</div>
+            <div class="quote">Unlimited strength.</div>
+            <div class="quote">gratitude gives strength</div>
+            <div class="quote">gratitude gives power</div>
+            <div class="quote">gratitude gives courage</div>
+            <div class="quote">gratitude gives determination</div>
+            <div class="quote">gratitude gives perseverance</div>
+            <div class="quote">gratitude gives patience</div>
+            <div class="quote">gratitude gives discipline</div>
+            <div class="quote">gratitude gives order</div>
+            <div class="quote">gratitude gives organization</div>
+            <div class="quote">gratitude gives planning</div>
+            <div class="quote">gratitude gives strategy</div>
+            <div class="quote">gratitude gives tactics</div>
+            <div class="quote">gratitude gives wisdom</div>
+            <div class="quote">gratitude gives intelligence</div>
+            <div class="quote">gratitude gives knowledge</div>
+            <div class="quote">gratitude gives information</div>
+            <div class="quote">gratitude gives data</div>
+            <div class="quote">gratitude gives statistics</div>
+            <div class="quote">gratitude gives probabilities</div>
+            <div class="quote">gratitude gives possibilities</div>
+            <div class="quote">gratitude gives opportunities</div>
+            <div class="quote">gratitude gives chances</div>
+            <div class="quote">gratitude gives risks</div>
+            <div class="quote">gratitude gives dangers</div>
+            <div class="quote">gratitude gives threats</div>
+            <div class="quote">gratitude gives vitality</div>
+            <div class="quote">gratitude gives health</div>
+            <div class="quote">gratitude gives happiness</div>
+            <div class="quote">gratitude gives peace</div>
+            <div class="quote">gratitude gives love</div>
+            <div class="quote">gratitude gives joy</div>
+            <div class="quote">gratitude gives kindness</div>
+            <div class="quote">gratitude gives respect</div>
+            <div class="quote">gratitude gives gratitude</div>
+            <div class="quote">gratitude gives forgiveness</div>
+            <div class="quote">gratitude gives understanding</div>
+            <div class="quote">gratitude gives empathy</div>
+            <div class="quote">gratitude gives compassion</div>
+            <div class="quote">gratitude gives hope</div>
+            <div class="quote">gratitude gives faith</div>
+            <div class="quote">gratitude gives confidence</div>
+            <div class="quote">gratitude gives security</div>
+            <div class="quote">gratitude gives clarity</div>
+            <div class="quote">gratitude gives enthusiasm</div>
+            <div class="quote">gratitude gives energy</div>
+            <div class="quote">gratitude gives vigor</div>
+            <div class="quote">gratitude gives strength</div>
+            <div class="quote">gratitude gives power</div>
+            <div class="quote">gratitude gives courage</div>
+            <div class="quote">gratitude gives determination</div>
+            <div class="quote">gratitude gives perseverance</div>
+            <div class="quote">gratitude gives patience</div>
+            <div class="quote">gratitude gives discipline</div>
+            <div class="quote">go further</div>
+            <div class="quote">go beyond</div>
+            <div class="quote">go above</div>
+            <div class="quote">go higher</div>
+            <div class="quote">go deeper</div>
+            <div class="quote">go wider</div>
+            <div class="quote">go longer</div>
+            <div class="quote">go farther</div>
+            <div class="quote">go faster</div>
+            <div class="quote">go slower</div>
+            <div class="quote">go stronger</div>
+            <div class="quote">do it every moment</div>
+            <div class="quote">do it every second</div>
+            <div class="quote">do it every minute</div>
+            <div class="quote">do it every hour</div>
+            <div class="quote">do it every day</div>
+            <div class="quote">small improvement</div>
+            <div class="quote">small change</div>
+            <div class="quote">small step</div>
+            <div class="quote">small action</div>
+            <div class="quote">small habit</div>
+            <div class="quote">Consistency is not always motivated</div>
+            <div class="quote">Consistency is not always exciting</div>
+            <div class="quote">Consistency is not always fun</div>
+            <div class="quote">Consistency is not always inspired</div>
+            <div class="quote">Consistency is not always encouraged</div>
+            <div class="quote">Consistency is not always supported</div>
+            <div class="quote">Consistency is not always rewarded</div>
+            <div class="quote">Consistency is not always recognized</div>
+            <div class="quote">Consistency is not always valued</div>
+            <div class="quote">Consistency is not always appreciated</div>
+            <div class="quote">turns actions into habits</div>
+            <div class="quote">turns habits into behaviors</div>
+            <div class="quote">turns behaviors into attitudes</div>
+            <div class="quote">turns attitudes into feelings</div>
+            <div class="quote">turns feelings into emotions</div>
+            <div class="quote">turns emotions into vibrations</div>
+            <div class="quote">turns vibrations into energies</div>
+            <div class="quote">turns energies into frequencies</div>
+            <div class="quote">turns frequencies into waves</div>
+            <div class="quote">turns waves into currents</div>
+            <div class="quote">turns currents into streams</div>
+            <div class="quote">turns streams into rivers</div>
+            <div class="quote">turns rivers into oceans</div>
+            <div class="quote">turns oceans into seas</div>
+            <div class="quote">show up</div>
+            <div class="quote">be present</div>
+            <div class="quote">be there</div>
+            <div class="quote">be available</div>
+            <div class="quote">be ready</div>
+            <div class="quote">be willing</div>
+            <div class="quote">be open</div>
+            <div class="quote">be flexible</div>
+            <div class="quote">be adaptable</div>
+            <div class="quote">be adjustable</div>
+            <div class="quote">be versatile</div>
+            <div class="quote">be variable</div>
+            <div class="quote">be changeable</div>
+            <div class="quote">be modifiable</div>
+            <div class="quote">Success is a marathon</div>
+            <div class="quote">Success is a journey</div>
+            <div class="quote">Success is a process</div>
+            <div class="quote">Success is a path</div>
+            <div class="quote">Success is a way</div>
+            <div class="quote">Success is a method</div>
+            <div class="quote">Success is a system</div>
+            <div class="quote">Success is a strategy</div>
+            <div class="quote">Success is a tactic</div>
+            <div class="quote">Success is a technique</div>
+            <div class="quote">Success is a plan</div>
+            <div class="quote">Success is a project</div>
+            <div class="quote">Success is a tactic</div>
+            <div class="quote">Success is a strategy</div>
+            <div class="quote">Success is a technique</div>
+            <div class="quote">Success is a system</div>
+            <div class="quote">Success is a method</div>
+            <div class="quote">Success is a process</div>
+            <div class="quote">doing the right things at the right time</div>
+            
+        </div>
+    </div>
