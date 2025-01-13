@@ -29,9 +29,9 @@ except ClientError as e:
 posts = [
     {
         "slides": ["quotes/1.jpg, quotes/2.jpg, quotes/3.jpg, quotes/4.jpg"],
-        "caption": "Discipline is your silent companion on the path to greatness. When motivation fades, discipline carries you through. Keep growing. 🌱 \n.\n.\n.\n #KroxTrain #DisciplineOverMotivation #MentalToughness #ConsistencyWins #FitnessJourney #WorkoutMotivation #StrengthTraining #FitnessGoals #DailyGrind #StrongerEveryDay #FitFam #TrainHard #NoExcuses #GrowthMindset #KroxLife",
+        "caption": "CYCLE01 RACE1 \n\n10 SETS:\n10 Burpees\n10 Box Jumps Over (20/24\")\n10 DB Snatch (17/22lbs)\nTime Cap: 25mins\n\nDiscipline is your silent companion on the path to greatness. When motivation fades, discipline carries you through. Keep pushing, keep growing. 🌱.\n.\n.\n.\n.\n.\n\n#KroxTrain #CycleOne #KroxRace #FunctionalFitness #DisciplineOverMotivation #CrossTraining #WorkoutOfTheDay #MentalToughness #TrainingDay #WorkoutChallenge #FitnessGoals #StrengthTraining #ConsistencyWins #DailyGrind",
         "hours_delay": 1
-    },
+    }
     {
         "slides": ["quotes/5.jpg, quotes/6.jpg, quotes/7.jpg, quotes/8.jpg"],
         "caption": "Small steps every day create massive changes over time 💯 \n.\n.\n.\n #KroxTrain #ConsistencyIsKey #DailyProgress #FitnessLifestyle #ProgressNotPerfection #StayCommitted #WorkoutLife #FitnessMotivation #HealthyHabits #StrongBody #StrongMind #BuildingSuccess #KroxCommunity #TrainingDay #LifestyleChange",
