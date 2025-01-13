@@ -34,7 +34,7 @@ posts = [
     },
     {
         "slides": ["quotes/5.jpg, quotes/6.jpg, quotes/7.jpg, quotes/8.jpg"],
-        "caption": "Small steps every day create massive changes over time 💯 \n.\n.\n.\n#KroxTrain #ConsistencyIsKey #DailyProgress #FitnessLifestyle #ProgressNotPerfection #StayCommitted #WorkoutLife #FitnessMotivation #HealthyHabits #StrongBody #StrongMind #BuildingSuccess #KroxCommunity #TrainingDay #LifestyleChange",
+        "caption": "Small steps every day create massive changes over time 💯 \n.\n.\n.\n #KroxTrain #ConsistencyIsKey #DailyProgress #FitnessLifestyle #ProgressNotPerfection #StayCommitted #WorkoutLife #FitnessMotivation #HealthyHabits #StrongBody #StrongMind #BuildingSuccess #KroxCommunity #TrainingDay #LifestyleChange",
         "hours_delay": 2
     },
     {
@@ -49,8 +49,7 @@ posts = [
     },
     {
         "slides": ["quotes/17.jpg, quotes/18.png, quotes/19.png, quotes/20.png"],
-        "caption": "When you turn your passion into purpose, every workout becomes an investment in your future. Building more than just muscle - building legacy. 🎯 \n.\n.\n.\n#KroxTrain #PurposeDriven #BusinessMindset #FitnessEntrepreneur #BuildingLegacy #WorkoutBusiness #FitnessIndustry #SuccessMindset #KroxBusiness #EntrepreneurLife #FitnessLeader #IndustryStandards"
-",
+        "caption": "When you turn your passion into purpose, every workout becomes an investment in your future. Building more than just muscle - building legacy. 🎯 \n.\n.\n.\n#KroxTrain #PurposeDriven #BusinessMindset #FitnessEntrepreneur #BuildingLegacy #WorkoutBusiness #FitnessIndustry #SuccessMindset #KroxBusiness #EntrepreneurLife #FitnessLeader #IndustryStandards",
         "hours_delay": 5
     },
     {
@@ -60,7 +59,7 @@ posts = [
     },
     {
         "slides": ["quotes/25.jpg, quotes/26.png, quotes/27.png, quotes/28.png"], 
-        "caption": "This moment. This rep. This workout. This is where champions are made. Make every second count. ⚡ \n.\n.\n.\n#KroxTrain #PresentMoment #FocusedMindset #TrainingMoments #WorkoutFocus #IntensityMatters #KroxMomentum #TrainingDay #WorkoutTime #FitnessLife #TrainingZone #InTheMoment"
+        "caption": "This moment. This rep. This workout. This is where champions are made. Make every second count. ⚡ \n.\n.\n.\n#KroxTrain #PresentMoment #FocusedMindset #TrainingMoments #WorkoutFocus #IntensityMatters #KroxMomentum #TrainingDay #WorkoutTime #FitnessLife #TrainingZone #InTheMoment",
         "hours_delay": 48
     },
     {
