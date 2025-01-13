@@ -29,43 +29,54 @@ except ClientError as e:
 posts = [
     {
         "slides": ["quotes/1.jpg, quotes/2.jpg, quotes/3.jpg, quotes/4.jpg"],
-        "caption": "STARTER KROXTRAIN\n10 Sets\n10 Burpess\n10 Box jumps Over\n10DB Snatch 15/20lbs\nAdd weight each set when ready\n.\n.\n.\nProgress demands patience, trust the process\n.\nBEAST KROXTRAIN\n'DYNAMITE'\n5 Sets\n8 Power Clean 135/95lb\n12 Box Jump Overs 24/20\n16 Russian KB Swings\nTimeCap: 15mins\nScale Options:\nReduce weight, Step-ups instead of jumps - Stay consistent, stay strong 💯 \n .\n.\n.\n Discipline beats motivation, discipline carries you when motivation fails. Keep growing 🌱 #kroxtrain #morninggrind #trainharder #ProgressOverPerfection #PatienceIsKey #TrustTheProcess #KeepGoing #GrowthMindset #Motivation #JourneyToSuccess #SmallWins #NeverGiveUp #PositiveVibes #kroxtrain #motivation #growth #kroxtrain #afternoongrind #dedication #kroxtrain #power #explosive #mindset #growth #noexcuses #kroxtrain #motivation #growth #eveningworkout #determination",
+        "caption": "Discipline is your silent companion on the path to greatness. When motivation fades, discipline carries you through. Keep growing. 🌱 \n.\n.\n.\n #KroxTrain #DisciplineOverMotivation #MentalToughness #ConsistencyWins #FitnessJourney #WorkoutMotivation #StrengthTraining #FitnessGoals #DailyGrind #StrongerEveryDay #FitFam #TrainHard #NoExcuses #GrowthMindset #KroxLife",
         "hours_delay": 1
     },
     {
-        "slides": ["quotes/5.jpg, quotes/6.png, quotes/7.png, quotes/8.png"], 
-        "caption": "It's not about how fast you get there, but that you keep moving forward.  Embrace the journey, celebrate the small wins, and trust the process. 🔥#ProgressOverPerfection #PatienceIsKey #TrustTheProcess #KeepGoing #GrowthMindset #Motivation #JourneyToSuccess #SmallWins #NeverGiveUp #PositiveVibes #kroxtrain #motivation #growth",
+        "slides": ["quotes/5.jpg, quotes/6.jpg, quotes/7.jpg, quotes/8.jpg"],
+        "caption": "Small steps every day create massive changes over time 💯 \n.\n.\n.\n#KroxTrain #ConsistencyIsKey #DailyProgress #FitnessLifestyle #ProgressNotPerfection #StayCommitted #WorkoutLife #FitnessMotivation #HealthyHabits #StrongBody #StrongMind #BuildingSuccess #KroxCommunity #TrainingDay #LifestyleChange",
+        "hours_delay": 2
+    },
+    {
+        "slides": ["quotes/9.jpg, quotes/10.png, quotes/11.png, quotes/12.png"], 
+        "caption": "Every moment is a chance to start fresh. Your next chapter begins when you decide. Time to write your success story. 🔥 #KroxTrain #NewBeginnings #StartNow #TransformationJourney #NoLimits #BreakBarriers #FitnessInspiration #PersonalGrowth #MakeItHappen #TakeAction #ChangeStartsNow #BelieveInYourself #KroxWarrior #FitLife #TimeForChange",
+        "hours_delay": 3
+    },
+    {
+        "slides": ["quotes/13.jpg, quotes/14.png, quotes/15.png, quotes/16.png"],
+        "caption": "Nothing worth having comes easy. Every drop of sweat, every early morning, every extra rep - it all adds up to something extraordinary. 💪#KroxTrain #EarnedNotGiven #HardWorkPaysOff #StrengthInProgress #DedicationPays #ResultsDriven #WorkoutResults #FitnessAchievements #StrongerThanYesterday #GrindTime #SweatEquity #KroxResults #FitnessSuccess #TrainingGoals",
+        "hours_delay": 4
+    },
+    {
+        "slides": ["quotes/17.jpg, quotes/18.png, quotes/19.png, quotes/20.png"],
+        "caption": "When you turn your passion into purpose, every workout becomes an investment in your future. Building more than just muscle - building legacy. 🎯#KroxTrain #PurposeDriven #BusinessMindset #FitnessEntrepreneur #BuildingLegacy #WorkoutBusiness #FitnessIndustry #SuccessMindset #KroxBusiness #EntrepreneurLife #FitnessLeader #IndustryStandards"
+",
+        "hours_delay": 5
+    },
+    {
+        "slides": ["quotes/21.jpg, quotes/22.png, quotes/23.png, quotes/24.png"],
+        "caption": "Your only real competition is the person you were yesterday. Every day is a chance to level up. Push your limits, break your barriers. 👊 #KroxTrain #SelfImprovement #PersonalBest #CompeteWithYourself #BetterEveryDay #FitnessProgress #LevelUp #KroxAthlete #PersonalGoals #SelfMastery #ImprovementDaily #FitnessEvolution",
         "hours_delay": 24
     },
     {
-        "slides": ["quotes/03.jpg, quotes/3.png"], 
-        "caption": "KROXTRAIN BEAST MODE 💪 Scale Options: Reduce weight, Step-ups instead of jumps - Stay consistent, stay strong 💯 #kroxtrain #afternoongrind #dedication #kroxtrain #power #explosive #mindset #growth #noexcuses",
+        "slides": ["quotes/25.jpg, quotes/26.png, quotes/27.png, quotes/28.png"], 
+        "caption": "It's the moment"
         "hours_delay": 48
     },
     {
-        "slides": ["quotes/04.jpg, quotes/4.png"], 
-        "caption": "Discipline carries you when motivation fails. Keep pushing, keep growing 🌱 #kroxtrain #motivation #growth #eveningworkout #determination",
+        "slides": ["quotes/29.jpg, quotes/30.png, quotes/31.png, quotes/32.png"],  
+        "caption": "Words are swords, use them to forge\n #kroxtrain #afternoongrind #dedication #kroxtrain #power #explosive #mindset #growth #noexcuses",
         "hours_delay": 72
     },
     {
-        "slides": ["quotes/05.jpg, quotes/5.png"], 
-        "caption": "MORNING KROXTRAIN - Wake up, show up, crush it 🌅 #kroxtrain #morninggrind #trainharder",
+        "slides": ["quotes/33.jpg, quotes/34.png, quotes/35.png, quotes/36.png"],  
+        "caption": "find what you die for#kroxtrain #motivation #growth #eveningworkout #determination #NeverTooLate #LifelongLearning #Education #GrowthMindset #Curiosity #LearnSomethingNew #PersonalDevelopment #ExpandYourHorizons #NewSkills #KnowledgeIsPower",
         "hours_delay": 96
     },
     {
-        "slides": ["quotes/06.jpg, quotes/6.png"],  
-        "caption": "The struggle was real, but the reward is even sweeter. 💯 #earnednotgiven #challenges #overcome #strength #resilience #nevergiveup #fightforit #successstory #perseverance #determination #effort #results #proud #journey #growthmindset #noexcuses #kroxtrain #motivation #growth",
+        "slides": ["quotes/37.jpg, quotes/38.png, quotes/39.png, quotes/40.png"],  
+        "caption": "find what you die for#kroxtrain #motivation #growth #eveningworkout #determination #NeverTooLate #LifelongLearning #Education #GrowthMindset #Curiosity #LearnSomethingNew #PersonalDevelopment #ExpandYourHorizons #NewSkills #KnowledgeIsPower",
         "hours_delay": 120
-    },
-    {
-        "slides": ["quotes/07.jpg, quotes/7.png"],  
-        "caption": "KROXTRAIN BEAST MODE 💪 Scale Options:\n- 200m run\n- Single-unders\n - Lighter weight\n #kroxtrain #afternoongrind #dedication #kroxtrain #power #explosive #mindset #growth #noexcuses",
-        "hours_delay": 144
-    },
-    {
-        "slides": ["quotes/08.jpg, quotes/8.png"],   
-        "caption": "It's never too late to learn something new.  Whether it's a new skill, a new language, or a new perspective, embrace the journey of lifelong learning. 🌱 #kroxtrain #motivation #growth #eveningworkout #determination #NeverTooLate #LifelongLearning #Education #GrowthMindset #Curiosity #LearnSomethingNew #PersonalDevelopment #ExpandYourHorizons #NewSkills #KnowledgeIsPower",
-        "hours_delay": 168
     }
 ]
 
