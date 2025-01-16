@@ -103,3 +103,89 @@ Drop a 💪 if you're committed
 
 
 Push your limits, Small steps, big results 👊 #kroxtrain #mindset #growth #afternoon #noexcuses"
+
+<div class="workout-container">
+
+
+        <div class="workout">
+            <div class="quote">C Y C L E 0 1 R A C E 1</div>
+            <div class="quote">
+                21-15-9<br>
+                Pull snatch 20% Bodyweight<br>
+                Thruster <br>
+                Lateral Burpee Over DB<br>
+                15-12-9 <br>
+                Front squat <br>
+                Clean & Press<br>
+                Lateral Burpee Over DB <br>
+                Time Cap: 25mins <br>
+            </div>
+            <div class="quote">Discipline beats motivation</div>
+        </div>
+
+        <div class="workout">
+            <div class="quote">C Y C L E 0 1 R A C E 2</div>
+            <div class="quote">
+                20 Minute AMRAP: <br>
+                10 DB Ground to Overhead 20% Bodyweight <br>
+                20 Mountain Climbers <br>
+                15 Jumping Squats <br>
+            </div>
+            <div class="quote">Consistency over intensity</div>
+        </div>
+
+        <div class="workout">
+            <div class="quote">C Y C L E 0 1 R A C E 3</div>
+            <div class="quote">
+                10 Sets <br>
+                10 Burpees <br>
+                10 Box Jumps Over 20/24"<br>
+                10 db Snatch 20% Bodyweight<br>
+                Time cap: 25mins <br>
+            </div>
+            <div class="quote">It's never too late</div>
+        </div>
+
+        <!-- ... other workouts ... -->
+        <div class="workout">
+            <div class="quote">C Y C L E 02 R A C E 6</div>
+            <div class="quote">
+                Time Cap: 30mins <br>
+                Teams of 2 <br>
+                Partner 1: <br>
+                Max Effort Row (calories) <br>
+                Partner 2: <br>
+                Hold DB Front Rack 30/40kg <br>
+                Switch when form breaks/DB drops 
+            </div>
+            <div class="quote">Strive for progress</div> </div>
+
+
+
+        <!-- Example of an added workout -->
+        <div class="workout">
+            <div class="quote">C Y C L E 02 R A C E 7</div>
+            <div class="quote">
+                3 Rounds for Time:<br>
+                400m Run<br>
+                21 Kettlebell Swings (24/16kg)<br>
+                12 Handstand Push-ups (scaled to pike push-ups)
+            </div>
+            <div class="quote">Challenge your limits</div>
+        </div>
+
+         <div class="workout">
+            <div class="quote">C Y C L E 02 R A C E 8</div>
+            <div class="quote">
+                For Time:<br>
+                50 Wall Balls (20/14 lbs)<br>
+                40 Toes-to-Bar (scaled to knee raises)<br>
+                30 Box Jumps (24/20 in)<br>
+                20 Burpees<br>
+                10 Power Cleans (135/95 lbs)
+            </div>
+            <div class="quote">Embrace the grind</div>
+        </div>
+
+
+    </div>
