@@ -71,7 +71,9 @@ movement_patterns = {
         10: "Burpee bar jump over",
         9: "Power Clean & Jerk",
         9: "Snatch",
-        9: "ground to overhead"
+        9: "ground to overhead",
+        14: "Thruster"
+        
         
     },
     "Stand-Up": {
