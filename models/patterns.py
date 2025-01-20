@@ -24,7 +24,7 @@ movement_patterns = {
         8: "Overhead squat",
         9: "Globet squat",
         10: "Pistol squat",
-        11: "Box Jump",
+        11: 'Box Jump 20/24"',
         12: "Box step-ups"
         
     },
