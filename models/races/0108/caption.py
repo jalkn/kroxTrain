@@ -22,5 +22,5 @@ Thread the needle pose
 .
 .
 .
-#crosstraining #fitness #crossfit #workout #gym #training #wod #motivation #fit #fitnessmotivation #sport #functionaltraining #crossfitgirls #personaltrainer #cardio #cross #weightlifting #crossfitlife #instafit #treino #saude #running #fitfam #coach #powerlifting #gymlife #crossfitbrasil #strength #crossfitter #bodybuilding #frogpose #saddlepose #pigeonpose #seatedstraddle #reclinedbutterfly #pretzelstretch #thoracicspine #shoulders #wideleggedchildspose #threadtheneedlepose
+#crosstraining #workout #gym #training #wod #discipline #sport #functionaltraining #personaltrainer #cardio #cross #weightlifting #instafit #treino #saude #running #fitfam #coach #powerlifting #gymlife #strength #bodybuilding #frogpose #saddlepose #pigeonpose #seatedstraddle #reclinedbutterfly #pretzelstretch #thoracicspine #shoulders #wideleggedchildspose #threadtheneedlepose
 """
