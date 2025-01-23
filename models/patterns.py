@@ -28,7 +28,7 @@ movement_patterns = {
         12: "Box step-ups"
         
     },
-    "Push": {
+    "Fall": {
         1: "Shoulder tap",
         2: "Push-up",
         3: "Handstand push-up",
