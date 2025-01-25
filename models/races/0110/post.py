@@ -16,27 +16,20 @@ MEDIA_PATHS = ["48.png",
 
 """
 .
-Time Cap 25mins
-50-40-30-20-10
-Wall Balls 14/20lbs 
-Kettlebell swings 20/24kg
-Pull-ups
-Push-ups
-Air Squats
+Time Cap 18mins
+6 Sets
+9 Push ups
+12 Kettlebell swings 20/24kg
+15 Overhead lunges 20/24kg
 .
 .
 .
 Mobility, Hold for 1min
 Dragon pose
-Thoracic Spine Rotations
-Child's Pose
-Happy Baby
-Deep Squat
-Pretzel Stretch
-Supine Stretch
-Child's Pose
-Seated Spinal Twist
-Thread the Needle Pose
+Couch stretch
+Lizard pose
+Figure 4 stretch
+World's greatest stretch
 .
 .
 .
