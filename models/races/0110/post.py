@@ -14,6 +14,34 @@ MEDIA_PATHS = ["48.png",
                "51.png",
 ]
 
+"""
+.
+Time Cap 25mins
+50-40-30-20-10
+Wall Balls 14/20lbs 
+Kettlebell swings 20/24kg
+Pull-ups
+Push-ups
+Air Squats
+.
+.
+.
+Mobility, Hold for 1min
+Dragon pose
+Thoracic Spine Rotations
+Child's Pose
+Happy Baby
+Deep Squat
+Pretzel Stretch
+Supine Stretch
+Child's Pose
+Seated Spinal Twist
+Thread the Needle Pose
+.
+.
+.
+#crosstraining #fitness #crossfit #workout #gym #training #wod #motivation #fit #fitnessmotivation #sport #functionaltraining #crossfitgirls #personaltrainer #cardio #cross #weightlifting #crossfitlife #instafit #treino #saude #running #fitfam #coach #powerlifting #gymlife #crossfitbrasil #strength #crossfitter #bodybuilding
+"""
 # Your caption
 CAPTION = '.\nTime Cap 25mins\n50-40-30-20-10\nWall Balls 14/20lbs\nKettlebell swings 20/24kg\nPull-ups\n.\n.\n.\nPush-ups\nAir squats\n.\n.\n.\n#crosstraining #fitness #crossfit #workout #gym #training #wod #motivation #fit #fitnessmotivation #sport #functionaltraining #crossfitgirls #personaltrainer #cardio #cross #weightlifting #crossfitlife #instafit #treino #saude #running #fitfam #coach #powerlifting #gymlife #crossfitbrasil #strength #crossfitter #bodybuilding'
 
