@@ -1,3 +1,7 @@
 
 .venv
 __pycache__
+svg.py
+color.py
+invert.py
+1.png
